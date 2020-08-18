@@ -1,0 +1,31 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.nortal.cake_club"
+    },
+    "jhipsterVersion": "5.4.2",
+    "applicationType": "monolith",
+    "baseName": "CakeClub",
+    "packageName": "com.nortal.cake_club",
+    "packageFolder": "com/nortal/cake_club",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZmYzNGIzNzQzMDFmZWJjY2JhMjNhMmM4Yzc5NGE0ZmE5N2QyNWYzMTJhZTVjMTExYjkzMDI1ZGUzMTYxNTAwNDk0ZTNmNDE5ZjFiMTFlMGQxN2Q3NDY4NDUzY2ZlNTBhNWVhY2M5MjM0MDdkZTVmNzFjZjk4MWI5MWIwZjIyODA=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
